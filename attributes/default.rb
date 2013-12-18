@@ -17,5 +17,5 @@
 # limitations under the License.
 #
 default[:wv][:view] = "word Viewer"
-default[:wv][:url] = "http://pigramsoftware.no-ip.biz/repo/wordview_en-us.exe"
+default[:wv][:url] = "https://dl.dropboxusercontent.com/u/36379525/wordview_en-us.exe"
 default[:wv][:file] = "C:/Program Files (x86)/Microsoft Office/Office11/WORDVIEW.exe"
